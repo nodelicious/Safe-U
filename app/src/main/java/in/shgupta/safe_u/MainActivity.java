@@ -10,7 +10,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG="check";
-    int Splashtime=3000 ;
+    int Splashtime=2500 ;
     TextView logotext;
 
     @Override
