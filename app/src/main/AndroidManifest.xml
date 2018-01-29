@@ -3,6 +3,9 @@
     package="in.shgupta.safe_u">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
 
     <application
         android:allowBackup="true"
@@ -11,8 +14,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
-            >
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,10 +24,8 @@
         <activity
             android:name=".Login"
             android:theme="@style/AppTheme" />
-
-        <activity android:name=".danger"
-            ></activity>
-
+        <activity android:name=".danger" />
+        <activity android:name=".addcontacs"></activity>
     </application>
 
 </manifest>

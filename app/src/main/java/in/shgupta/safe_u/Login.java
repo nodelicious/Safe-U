@@ -31,7 +31,7 @@ public class Login extends AppCompatActivity {
 
         SharedPreferences sp= PreferenceManager.getDefaultSharedPreferences(this);
         String vi=sp.getString("mobileno","");
-        if(vi.equals("mobileno")){
+        if(!vi.equals("mobileno")){
 
         Intent i=new Intent(this,danger.class);
         startActivity(i);
