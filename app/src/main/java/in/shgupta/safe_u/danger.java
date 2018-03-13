@@ -98,18 +98,20 @@ public class danger extends AppCompatActivity {
                     SmsManager smsManager = SmsManager.getDefault();
                     StringBuffer smsBody = new StringBuffer();
                     smsBody.append(Uri.parse(message));
-                    android.telephony.SmsManager.getDefault().sendTextMessage(number1, null, smsBody.toString(), null, null);
-                    android.telephony.SmsManager.getDefault().sendTextMessage(number2, null, smsBody.toString(), null, null);
-                    android.telephony.SmsManager.getDefault().sendTextMessage(number3, null, smsBody.toString(), null, null);
-
-
+                    if(m.getNo1()!=null) {
+                        android.telephony.SmsManager.getDefault().sendTextMessage(number1, null, smsBody.toString(), null, null);
+                    }
+                    else if(m.getNo2()!=null) {
+                        android.telephony.SmsManager.getDefault().sendTextMessage(number2, null, smsBody.toString(), null, null);
+                    }
+                    else if(m.getNo3()!=null) {
+                        android.telephony.SmsManager.getDefault().sendTextMessage(number3, null, smsBody.toString(), null, null);
+                    }else{
+                        Toast.makeText(danger.this, "please add numbers", Toast.LENGTH_SHORT).show();
+                    }
 
             }
         });
-
-
-
-
     }
 
     @Override
