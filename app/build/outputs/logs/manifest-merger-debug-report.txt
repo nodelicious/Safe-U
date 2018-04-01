@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b0206e66b270a2d68f69b39805aea5bc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:8:22-65
+application
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b0206e66b270a2d68f69b39805aea5bc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b0206e66b270a2d68f69b39805aea5bc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:16:9-40
+activity#in.shgupta.safe_u.MainActivity
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:21:27-74
+activity#in.shgupta.safe_u.Login
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:24:9-26:47
+	android:theme
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:25:13-34
+activity#in.shgupta.safe_u.danger
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:27:19-41
+activity#in.shgupta.safe_u.addcontacts
+ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml:28:19-46
+uses-sdk
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b0206e66b270a2d68f69b39805aea5bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b0206e66b270a2d68f69b39805aea5bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhanshugupta/AndroidStudioProjects/Safe-U/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/17ef715bd3a67879ebb684a55b42b85c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/583033a58518695813466cf731ef822a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/c97e9d9794a0412fb99210a25f1e9a4d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/c92aa717e0c927cb78e6fc63fa7fe446/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/fbd0354529b90fc71de4a2cc3260cc81/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/9d802ceaf43f10f25a01e76b135c5882/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/80660c2b6f3e510e46f37b4580932a67/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/9a272a4d0078117ab5578de9518efeed/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shubhanshugupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/89ab593b135e15af98f5a6ba04115707/AndroidManifest.xml:26:9-47

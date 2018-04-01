@@ -10,15 +10,15 @@ public class models {
     String no2;
     String no3;
 
-    public void setNo1(String no1) {
+    public static void setNo1(String no1) {
         this.no1 = no1;
     }
 
-    public void setNo2(String no2) {
+    public static void setNo2(String no2) {
         this.no2 = no2;
     }
 
-    public void setNo3(String no3) {
+    public static void setNo3(String no3) {
         this.no3 = no3;
     }
 
