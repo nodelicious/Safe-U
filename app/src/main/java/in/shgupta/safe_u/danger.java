@@ -1,6 +1,7 @@
 package in.shgupta.safe_u;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -25,7 +26,7 @@ import android.widget.Toast;
 public class danger extends AppCompatActivity {
 
     LocationManager lm;
-    Button danger;
+    Button danger,addcontacts;
     models m;
 
 
@@ -39,6 +40,7 @@ public class danger extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dangerhome);
         danger = (Button) findViewById(R.id.danger);
+        addcontacts= (Button) findViewById(R.id.btnaddcontacts);
 
 
         lm = (LocationManager) getSystemService(LOCATION_SERVICE);
@@ -110,6 +112,14 @@ public class danger extends AppCompatActivity {
                         Toast.makeText(danger.this, "please add numbers", Toast.LENGTH_SHORT).show();
                     }
 
+            }
+        });
+
+        addcontacts.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(danger.this, in.shgupta.safe_u.addcontacts.class);
+                startActivity(i);
             }
         });
     }
